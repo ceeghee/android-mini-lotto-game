@@ -12,7 +12,7 @@
 
 ## Screenshot
 
-[[https://github.com/ceeghee/Android-Mini-Lotto-Game/blob/master/img/img.PNG|alt=img]]
+[[https://github.com/ceeghee/Android-Mini-Lotto-Game/blob/master/img/img.PNG[alt=img]]
 
 
 ## Installation

@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>CG GAME</title>
+</head>
+	<script  src="/socket.io/socket.io.js"></script>
+	<script >
+		
+		var socket = io();
+		socket.on("broadcast",function(data){
+			console.log(data);
+			// document.write(data);
+		})
+	</script>
+<body>
+<h1>THIS IS BACKED</h1>
+</body>
+</html>

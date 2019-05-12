@@ -11,8 +11,7 @@
 
 
 ## Screenshot
-
-[[https://github.com/ceeghee/Android-Mini-Lotto-Game/blob/master/img/img.PNG
+<img src="https://i.imgur.com/4WQAZUO.png">
 
 
 ## Installation

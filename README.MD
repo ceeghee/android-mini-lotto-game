@@ -9,7 +9,10 @@
 	<li><p>Games can be played Continuosly until user decides to disconnect using the disconnect button </p></li>
 	</ul>
 
-	![alt text](https://github.com/ceeghee/Android-Mini-Lotto-Game/blob/master/img/img.PNG)
+
+## Screenshot
+
+[[https://github.com/ceeghee/Android-Mini-Lotto-Game/blob/master/img/img.PNG|alt=img]]
 
 
 ## Installation

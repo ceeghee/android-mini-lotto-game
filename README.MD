@@ -1,6 +1,6 @@
-# Android Mini Lotto App [AMLP] :smirk:
+# Android Mini Lotto Game [AMLG] :sunglasses:
 
->The Android Mini Lotto App is a guessing game developed using **Java - Android Studio** **Nodejs and SocketIO**, the game generates a random number within a specified range on the server, the user is then required to pick any number of their choice they also enter a specified play fee(new users get 1000 USD Play fee). <br/>
+>The Android Mini Lotto App is a guessing game developed using **Java - Android Studio**, **Nodejs and SocketIO**, the game generates a random number within a specified range on the server, the user is then required to pick any number of their choice they also enter a specified play fee(new users get 1000 USD Play fee). <br/>
 > If the user number correlates with server number, the the User Play Fee is Doubled and Added to their Current Earnings or Fee. <br/>
 
 >>**Other Basic Features** 
@@ -8,6 +8,8 @@
 	<li><p>Multiple Users Can Join and Play Concurrently</p></li>
 	<li><p>Games can be played Continuosly until user decides to disconnect using the disconnect button </p></li>
 	</ul>
+
+	![alt text](https://raw.github.com/ceeghee/Android-Mini-Lotto-Game/branch/path/to/img.png)
 
 
 ## Installation

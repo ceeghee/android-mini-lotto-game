@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AndroidGameLuckyNumber</string>
+    <string name="btn_submit">SUBMIT</string>
+    <string name="btn_disconnect">disconnect</string>
+</resources>

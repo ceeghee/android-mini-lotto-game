@@ -1,0 +1,11 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item> <!-- changes the mobile header background color-->
+        <item name="colorAccent">@color/colorCustom</item> <!-- changes the app inputs color-->
+    </style>
+
+</resources>
